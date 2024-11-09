@@ -1,0 +1,256 @@
+[
+  {
+    "product_id": 1,
+    "product_title": "iPhone 14 Pro",
+    "product_image": "https://i.ibb.co.com/VWNzrDq/Apple-i-Phone-14-Pro-i-Phone-14-Pro-Max-space-black-220907-inline-jpg-large-2x.jpg",
+    "category": "iPhone",
+    "price": 999.99,
+    "description": "Latest iPhone 14 Pro with advanced camera system and powerful A16 Bionic chip.",
+    "Specification": ["128GB storage", "6.1-inch OLED display", "Triple-lens camera", "5G-enabled"],
+    "availability": true,
+    "rating": 4.9,
+    "color": "Space Black"
+  },
+  {
+    "product_id": 2,
+    "product_title": "MacBook Pro 16",
+    "product_image": "https://i.ibb.co.com/LxDSL2r/3713-12439.jpg",
+    "category": "Laptops",
+    "price": 2499.99,
+    "description": "Powerful MacBook Pro with M1 Pro chip, designed for performance and efficiency.",
+    "Specification": ["M1 Pro chip", "16-inch Retina display", "512GB SSD", "16GB RAM"],
+    "availability": true,
+    "rating": 4.8,
+    "color": "Silver"
+  },
+  {
+    "product_id": 3,
+    "product_title": "AirPods Pro (2nd Generation)",
+    "product_image": "https://i.ibb.co.com/pr6s0Vb/airpods-pro-2nd-generation-01-500x500.webp",
+    "category": "Accessories",
+    "price": 249.99,
+    "description": "Noise-canceling wireless earbuds with high-quality sound and spatial audio.",
+    "Specification": ["Active noise cancellation", "Transparency mode", "Spatial audio"],
+    "availability": true,
+    "rating": 4.7,
+    "color": "White"
+  },
+  {
+    "product_id": 4,
+    "product_title": "MagSafe Wireless Charger",
+    "product_image": "https://i.ibb.co.com/P1MprmX/Wi-WU-M5-15-W-Magsafe-Wireless-Charger.jpg",
+    "category": "Accessories",
+    "price": 59.99,
+    "description": "Apple MagSafe wireless charger for iPhone and compatible devices.",
+    "Specification": ["MagSafe compatibility", "USB-C connection", "Fast wireless charging"],
+    "availability": true,
+    "rating": 4.5,
+    "brand": "Apple"
+  },
+  {
+    "product_id": 5,
+    "product_title": "Portable Power Bank 20000mAh",
+    "product_image": "https://i.ibb.co.com/Vmd6Xbj/p88k-01-500x500.webp",
+    "category": "Accessories",
+    "price": 55.99,
+    "description": "High-capacity power bank with dual USB ports for charging multiple devices.",
+    "Specification": ["20000mAh capacity", "Dual USB output", "Fast charging"],
+    "availability": true,
+    "rating": 4.6,
+    "color": "White"
+  },
+ {
+  "product_id": 6,
+  "product_title": "Wireless Charging Dock for iPhone and Apple Watch",
+  "product_image": "https://i.ibb.co.com/Z8RQ5vJ/download-6.jpg",
+  "category": "Accessories",
+  "price": 55.99,
+  "description": "Convenient 2-in-1 charging dock for iPhone and Apple Watch with fast wireless charging.",
+  "Specification": ["Fast wireless charging", "2-in-1 design for iPhone and Apple Watch", "USB-C connection"],
+  "availability": true,
+  "rating": 4.6,
+  "color": "Black"
+},
+  {
+    "product_id": 7,
+    "product_title": "MacBook USB-C Adapter",
+    "product_image": "https://i.ibb.co.com/cXnWsFq/71-Wtfl-QQVy-L-AC-SX300-SY300-QL70-FMwebp.webp",
+    "category": "Accessories",
+    "price": 52.99,
+    "description": "USB-C adapter for MacBook to connect USB-A devices and peripherals.",
+    "Specification": ["USB-C to USB-A", "Compact design", "Compatible with MacBook"],
+    "availability": true,
+    "rating": 4.3,
+    "brand": "Apple"
+  },
+  {
+    "product_id": 8,
+    "product_title": "Apple Watch Series 8",
+    "product_image": "https://i.ibb.co.com/xX694mP/Apple-Watch-Series-8-Red-GPS-3835.jpg",
+    "category": "Accessories",
+    "price": 399.99,
+    "description": "Apple Watch with health tracking, GPS, and fitness monitoring.",
+    "Specification": ["Heart rate monitor", "GPS", "Water-resistant"],
+    "availability": true,
+    "rating": 4.8,
+    "battery_life": "18 hours"
+  },
+  {
+    "product_id": 9,
+    "product_title": "USB-C Wall Charger",
+    "product_image": "https://i.ibb.co.com/M95HjPw/download-2.jpg",
+    "category": "Accessories",
+    "price": 50.99,
+    "description": "Compact USB-C wall charger with fast charging support for phones and tablets.",
+    "Specification": ["20W output", "Compact design", "USB-C port"],
+    "availability": true,
+    "rating": 4.5,
+    "brand": "ChargeIt"
+  },
+  {
+    "product_id": 10,
+    "product_title": "Slim Power Bank 10000mAh",
+    "product_image": "https://i.ibb.co.com/F0ktRBB/images.jpg",
+    "category": "Accessories",
+    "price": 53.99,
+    "description": "Slim and lightweight power bank for charging devices on the go.",
+    "Specification": ["10000mAh capacity", "USB-A and USB-C output", "Fast charging"],
+    "availability": true,
+    "rating": 4.4,
+    "color": "Black"
+  },
+  {
+    "product_id": 11,
+    "product_title": "Dell XPS 13",
+    "product_image": "https://i.ibb.co.com/T1rbdt4/images-1.jpg",
+    "category": "Laptops",
+    "price": 1299.99,
+    "description": "Ultra-portable laptop with InfinityEdge display, ideal for professionals on the go.",
+    "Specification": ["13.4-inch FHD+", "Intel i7", "16GB RAM", "512GB SSD"],
+    "availability": true,
+    "rating": 4.7,
+    "color": "Platinum Silver"
+  },
+  {
+    "product_id": 12,
+    "product_title": "HP Spectre x360",
+    "product_image": "https://i.ibb.co.com/Lt6Thg2/download-3.jpg",
+    "category": "Laptops",
+    "price": 1599.99,
+    "description": "Convertible laptop with a 360-degree hinge and powerful performance.",
+    "Specification": ["13.3-inch 4K OLED", "Intel i7", "16GB RAM", "1TB SSD"],
+    "availability": false,
+    "rating": 4.8,
+    "color": "Nightfall Black"
+  },{
+  "product_id": 13,
+  "product_title": "Samsung Galaxy S23 Ultra",
+  "product_image": "https://i.ibb.co.com/WHdmpqq/Galaxy-S23-Ultra-Green-450x450.webp",
+  "category": "Smart Phones",
+  "price": 1199.99,
+  "description": "Samsung Galaxy S23 Ultra with powerful Snapdragon 8 Gen 2 and a 200MP camera system.",
+  "Specification": ["256GB storage", "6.8-inch QHD+ display", "Quad-lens camera", "5G-enabled"],
+  "availability": true,
+  "rating": 4.9,
+  "color": "Phantom Black"
+},
+{
+  "product_id": 14,
+  "product_title": "Google Pixel 7 Pro",
+  "product_image": "https://i.ibb.co.com/DQM9G93/Pixel-7-Pro-Snow-custom-mac-bd.webp",
+  "category": "Smart Phones",
+  "price": 899.99,
+  "description": "Google Pixel 7 Pro with Google's latest Tensor G2 chip and stunning camera capabilities.",
+  "Specification": ["128GB storage", "6.7-inch OLED display", "Triple-lens camera", "5G-enabled"],
+  "availability": true,
+  "rating": 4.7,
+  "color": "Obsidian"
+},
+  {
+  "product_id": 15,
+  "product_title": "Lenovo ThinkPad X1 Carbon Gen 10",
+  "product_image": "https://i.ibb.co.com/PNL2nm3/images-3.jpg",
+  "category": "Laptops",
+  "price": 1499.99,
+  "description": "Lightweight and durable business laptop with the latest Intel i7 processor and a 14-inch 4K display.",
+  "Specification": ["Intel i7 12th Gen", "14-inch 4K UHD display", "16GB RAM", "512GB SSD"],
+  "availability": true,
+  "rating": 4.6,
+  "color": "Black"
+},{
+  "product_id": 16,
+  "product_title": "OnePlus 10 Pro",
+  "product_image": "https://i.ibb.co.com/Y2BhH8R/images-4.jpg",
+  "category": "Smart Phones",
+  "price": 799.99,
+  "description": "Flagship smartphone from OnePlus with Hasselblad camera technology, ultra-fast charging, and smooth 120Hz AMOLED display.",
+  "Specification": ["128GB storage", "6.7-inch Fluid AMOLED display", "48MP triple-camera", "5G-enabled", "80W fast charging"],
+  "availability": true,
+  "rating": 4.6,
+  "color": "Emerald Green"
+},
+{
+  "product_id": 17,
+  "product_title": "Xiaomi Mi 12 Pro",
+  "product_image": "https://i.ibb.co.com/vjjVmkd/download-4.jpg",
+  "category": "Smart Phones",
+  "price": 849.99,
+  "description": "High-performance smartphone with advanced AI-driven camera, fast Snapdragon 8 Gen 1 processor, and ultra-fast charging.",
+  "Specification": ["256GB storage", "6.73-inch AMOLED display", "50MP quad-camera", "5G-enabled", "120W fast charging"],
+  "availability": true,
+  "rating": 4.7,
+  "color": "Gray"
+},{
+  "product_id": 18,
+  "product_title": "iPhone 13 Mini",
+  "product_image": "https://i.ibb.co.com/2Y6cJDy/download-5.jpg",
+  "category": "iPhone",
+  "price": 699.99,
+  "description": "Compact and powerful iPhone 13 Mini with A15 Bionic chip and improved dual-camera system.",
+  "Specification": ["128GB storage", "5.4-inch OLED display", "Dual-lens camera", "5G-enabled"],
+  "availability": true,
+  "rating": 4.8,
+  "color": "Midnight"
+},
+{
+  "product_id": 19,
+  "product_title": "iPhone SE (3rd Generation)",
+  "product_image": "https://i.ibb.co.com/ZWgYMW0/images-5.jpg",
+  "category": "iPhone",
+  "price": 429.99,
+  "description": "Affordable iPhone SE with A15 Bionic chip and classic Touch ID.",
+  "Specification": ["64GB storage", "4.7-inch Retina display", "Single-lens camera", "5G-enabled"],
+  "availability": true,
+  "rating": 4.5,
+  "color": "Product Red"
+},{
+  "product_id": 20,
+  "product_title": "Microsoft Surface Laptop 4",
+  "product_image": "https://i.ibb.co.com/wyhV0FH/images-6.jpg",
+  "category": "Laptops",
+  "price": 1299.99,
+  "description": "Slim and stylish Microsoft Surface Laptop 4 with touch support, perfect for productivity on the go.",
+  "Specification": ["AMD Ryzen 7", "13.5-inch PixelSense touchscreen", "512GB SSD", "16GB RAM"],
+  "availability": true,
+  "rating": 4.7,
+  "color": "Matte Black"
+},{
+  "product_id": 21,
+  "product_title": "ASUS ROG Zephyrus G14",
+  "product_image": "https://i.ibb.co.com/HVz8sbV/download-7.jpg",
+  "category": "Laptops",
+  "price": 1599.99,
+  "description": "Compact and powerful gaming laptop with AMD Ryzen 9, perfect for gaming and creative tasks.",
+  "Specification": ["AMD Ryzen 9", "14-inch QHD display", "1TB SSD", "32GB RAM", "NVIDIA GeForce RTX 3060"],
+  "availability": true,
+  "rating": 4.5,
+  "color": "Eclipse Gray"
+}
+
+
+
+
+
+
+
+]
